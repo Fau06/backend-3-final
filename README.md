@@ -13,7 +13,7 @@ Este es el repositorio para el proyecto final del curso, que integra mocking, te
 
 ## Instalación
 
-1. Clonar el repositorio: `git clone [https://github.com/fau06/proyecto-final-backend.git](https://github.com/fau06/proyecto-final-backend.git)`
+1. Clonar el repositorio: `git clone https://github.com/Fau06/backend-3-final.git`
 2. Instalar dependencias: `npm install`
 3. Crear el archivo `.env` basándose en `.env.example` y configurar las variables.
 
