@@ -1,8 +1,7 @@
-import { expect } from 'chai'; // <-- CAMBIO IMPORTANTE
+import { expect } from 'chai';
 import supertest from 'supertest';
 import mongoose from 'mongoose';
 
-// La línea "const expect = chai.expect;" se elimina porque ya importamos expect directamente.
 const requester = supertest('http://localhost:8080');
 
 describe('Testing del Módulo de Adopción', () => {
