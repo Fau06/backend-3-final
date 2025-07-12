@@ -1,5 +1,5 @@
-# 1. Usar una imagen base oficial de Node.js ligera y segura.
-FROM node:18-alpine
+# 1. Usar una imagen base oficial de Node.js estándar para evitar problemas con dependencias nativas como bcrypt.
+FROM node:18
 
 # 2. Establecer el directorio de trabajo dentro del contenedor.
 WORKDIR /usr/src/app
