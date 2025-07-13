@@ -10,6 +10,8 @@ Este es el repositorio para el proyecto final del curso, que integra mocking, te
 - Mocha, Chai, Supertest (para testing)
 - Swagger (para documentación)
 - Docker
+- Handlers de errores
+- Loggers (Winston, Morgan)
 
 ## Instalación
 
